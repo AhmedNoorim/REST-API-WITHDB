@@ -1,0 +1,26 @@
+index {
+    it is used just for PORT management
+}
+
+app {
+    this is the main app
+}
+
+routes {
+    dependent on controllers
+
+}
+
+controllers {
+    dependent on models
+
+}
+
+models {
+    this is the database
+
+}
+
+1st complete routing
+2nd complete controllers
+3rd complete models
